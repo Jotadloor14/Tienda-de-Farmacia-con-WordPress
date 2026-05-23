@@ -1,0 +1,34 @@
+[
+    {
+        "link": "http:\/\/localhost:8081\/FarmaClic\/post-type-cartflows_step-sitemap-1.xml",
+        "updated": "2026-04-29T18:16:53+02:00"
+    },
+    {
+        "link": "http:\/\/localhost:8081\/FarmaClic\/post-type-elementor_library-sitemap-1.xml",
+        "updated": "2026-04-29T18:16:51+02:00"
+    },
+    {
+        "link": "http:\/\/localhost:8081\/FarmaClic\/post-type-page-sitemap-1.xml",
+        "updated": "2026-04-29T18:16:50+02:00"
+    },
+    {
+        "link": "http:\/\/localhost:8081\/FarmaClic\/post-type-post-sitemap-1.xml",
+        "updated": "2026-04-29T18:16:48+02:00"
+    },
+    {
+        "link": "http:\/\/localhost:8081\/FarmaClic\/post-type-product-sitemap-1.xml",
+        "updated": "2026-04-29T18:16:52+02:00"
+    },
+    {
+        "link": "http:\/\/localhost:8081\/FarmaClic\/taxonomy-type-category-sitemap-1.xml",
+        "updated": "2026-04-29T18:16:55+02:00"
+    },
+    {
+        "link": "http:\/\/localhost:8081\/FarmaClic\/taxonomy-type-product_cat-sitemap-1.xml",
+        "updated": "2026-04-29T18:16:56+02:00"
+    },
+    {
+        "link": "http:\/\/localhost:8081\/FarmaClic\/taxonomy-type-product_tag-sitemap-1.xml",
+        "updated": "2026-04-29T18:16:57+02:00"
+    }
+]
